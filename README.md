@@ -19,13 +19,13 @@ User_1:
 
 User_2:
 -------
-* User_2 sollte in seinen Emails (könnte ca 2Std dauern) eine Einladung finden in etwa wie in folgenden Bild  
+* User_2 sollte in seinen Emails (könnte ca 2 Std dauern) eine Einladung finden in etwa wie in folgendem Bild  
 ![01_GH_EinladungEmail Image](Resources/01_GH_EinladungEmail.png "01_GH_EinladungEmail Image")
 
 * beim Klick auf den Link in der Email (oder Link kopieren und in die Adresszeile eines Browsers einfügen) gelangt man zu folgender Seite in GitHub  
 ![02_GH_EinladungInGitHub Image](Resources/02_GH_EinladungInGitHub.png "02_GH_EinladungInGitHub Image")
 
-* in GitHub-Desktop muss man jetzt das Repository kopieren bzw Clonen dazu im Menü "File"  
+* in GitHub-Desktop muss man jetzt das Repository kopieren bzw Clonen dazu im Menü "File"->"Clone repository..."  
 ![03_GHDt_FileClonerepo Image](Resources/03_GHDt_FileClonerepo.png "03_GHDt_FileClonerepo Image")
 
 * Ordner auswählen  
