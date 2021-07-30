@@ -1,7 +1,7 @@
 # GitHub_TwoContribs
 ## Two contributors working together using GitHub-Desktop   
 ### This is a tutorial answering the question:
-How to work together with another contributor in a private repository, using GitHub-Desktop
+How to work together with another contributor in a private repository, using GitHub-Desktop.  
 Project started 30. july 2021 
 
 German language:  
